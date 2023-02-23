@@ -18,7 +18,8 @@ If you have a Python code snippet that you think would be useful for others, fee
 
 ## :tada: &nbsp;Table of Contents
 <p>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://rustpad.io/#hAmWGj"><b>Font Character Map Reader</b></a> - is bla bla bla bla.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://rustpad.io/#hAmWGj"><b>e.g.</b></a> - is bla bla bla bla.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mlozturk/some-py-snippets/blob/master/font-character-map/font_charmap.py"><b>Font Character Map Reader</b></a> - is retrieves the font files and their character maps on a system.<br>
 
 ## License
 
